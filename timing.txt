@@ -1,0 +1,10 @@
+start 2026-10-23 22:12:12 CST
+slug tattoo-consent
+name 纹身穿孔店电子同意书
+kw expand done 2026-10-23 22:12:12 CST
+serp skip already present 2026-10-23 22:12:12 CST
+report start 2026-10-23 22:12:12 CST
+
+verification {"start_utc": "2026-10-23T14:12:25+00:00", "end_utc": "2026-10-23T14:26:52.096448+00:00", "elapsed_seconds": 867, "elapsed_display": "14分27秒", "basis": "首次读资料时clock工具时间至交付打包前系统时间", "reused_previous_keyword_serp_time": "未找到；未计入"}
+report end 2026-10-23 22:27:00 CST 用时 14 分钟
+done tattoo-consent 2026-10-23 22:27:00 CST
